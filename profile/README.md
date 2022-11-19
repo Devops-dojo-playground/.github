@@ -1,4 +1,20 @@
-## Hi there 👋
+### 🙋‍♀️ A short introduction -
+
+GitHub org. created for learning DevOps tools and technologies
+
+### 🌈 Contribution guidelines
+
+*Not available at the moment*
+
+### 👩‍💻 Useful resources
+
+*Insert resources URLs here*
+
+### 🍿 Fun facts
+
+*NA*
+
+### 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 <!--
 
